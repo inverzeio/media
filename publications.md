@@ -1,3 +1,5 @@
+# Publications #
+
 Date | Topic | Publisher | Link
 ------------- | ------------- | -------------
 01/12/2024 | FBot Hacking Tool Targets Major Cloud Services | [SC Magazine](https://www.scmagazine.com/) | [Link](https://www.scmagazine.com/news/fbot-hacking-tool-targets-major-cloud-services)
