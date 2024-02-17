@@ -2,7 +2,6 @@
 
 | Date | Topic | Publisher |
 | ------------- | :------------- | :------------- |
-
 | 02/16/2024 | **RansomHouse using MrAgent to track deployment accross VMware ESXi hypervisors** ||
 | 02/16/2024 | [‘MrAgent’ ransomware tool from RansomHouse Group targets ESXi servers](https://www.scmagazine.com/news/mragent-ransomware-tool-from-ransomhouse-group-targets-esxi-servers) | [SC Magazine](https://www.scmagazine.com/) |
 | 02/08/2024 | **Linux Shim Vulnerability** ||
