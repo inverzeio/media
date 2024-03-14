@@ -3,7 +3,7 @@
 | Date | Topic | Publisher |
 | ------------- | :------------- | :------------- |
 | 03/14/2024 | **Security Data Management** ||
-| 03/14/2024 | [10 Tips for Better Security Data Management](https://www.darkreading.com/cybersecurity-analytics/10-tips-for-better-security-data-management) | ([DarkReading](https://www.darkreading.com))
+| 03/14/2024 | [10 Tips for Better Security Data Management](https://www.darkreading.com/cybersecurity-analytics/10-tips-for-better-security-data-management) | [DarkReading](https://www.darkreading.com) |
 | 02/23/2024 | **Red Teaming GenAI** ||
 | 02/23/2024 | [Microsoft Unveils PyRIT, a Red Teaming Tool for Generative AI](https://techstrong.ai/cybersecurity-ai/microsoft-unveils-pyrit-a-red-teaming-tool-for-generative-ai/) | [Techstrong.ai](https://techstrong.ai/) |
 | 02/16/2024 | **RansomHouse using MrAgent to track deployment accross VMware ESXi hypervisors** ||
