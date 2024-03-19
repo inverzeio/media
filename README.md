@@ -3,8 +3,10 @@
 | Date | Topic | Publisher |
 | ------------- | :------------- | :------------- |
 | 03/19/2024 | **2023 Threat Intelligence Report** ||
+| 03/19/2024 | [2023 Threat Intelligence Report](https://www.ontinue.com/wp-content/uploads/2024/03/2023-Ontinue-Threat-Intelligence-Report.pdf) | [Ontinue Resources](https://www.ontinue.com/resources/) |
+[Navigating the Complex Cybersecurity Landscape](https://www.ontinue.com/resource/deep-dive-into-new-2023-threat-intelligence-report/) [Ontinue Blog](https://www.ontinue.com/resources/?resource_type%5B%5D=blog) |
 | 03/19/2024 | [Research Shows IT and Construction Sectors Hardest Hit By Ransomware](https://www.infosecurity-magazine.com/news/it-construction-sectors-ransomware/) | [Infosecurity Magazine](https://infosecurity-magazine.com) |
-| 03/19/2024 | [Threats Shaping the Cyber Threat Landscape](https://vmblog.com/archive/2024/03/19/ontinue-releases-first-inaugural-threat-intelligence-report-threats-shaping-the-cyber-threat-landscape.aspx)) | [VMBlog](vmblog.com) |
+| 03/19/2024 | [Threats Shaping the Cyber Threat Landscape](https://vmblog.com/archive/2024/03/19/ontinue-releases-first-inaugural-threat-intelligence-report-threats-shaping-the-cyber-threat-landscape.aspx) | [VMBlog](vmblog.com) |
 | 03/14/2024 | **Security Data Management** ||
 | 03/14/2024 | [10 Tips for Better Security Data Management](https://www.darkreading.com/cybersecurity-analytics/10-tips-for-better-security-data-management) | [DarkReading](https://www.darkreading.com) |
 | 02/23/2024 | **Red Teaming GenAI** ||
