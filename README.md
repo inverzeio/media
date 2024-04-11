@@ -2,6 +2,8 @@
 
 | Date | Topic | Publisher |
 | ------------- | :------------- | :------------- |
+| 04/10/2024 | **Raspberry Robin ** 
+| 04/10/2024 | [Raspberry Robin Observed Spreading via Windows Script Files](https://www.scmagazine.com/news/raspberry-robin-observed-spreading-via-windows-script-files) | [SC Magazine](https://www.scmagazine.com/) | 
 | 03/19/2024 | **2023 Threat Intelligence Report** ||
 | 03/19/2024 | [End of year Report - 2023 Threat Intelligence Report](https://www.ontinue.com/wp-content/uploads/2024/03/2023-Ontinue-Threat-Intelligence-Report.pdf) | [Ontinue Resources](https://www.ontinue.com/resources/) |
 | 03/19/2024 | [Navigating the Complex Cybersecurity Landscape](https://www.ontinue.com/resource/deep-dive-into-new-2023-threat-intelligence-report/) | [Ontinue Blog](https://www.ontinue.com/resources/?resource_type%5B%5D=blog) |
