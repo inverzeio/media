@@ -2,7 +2,7 @@
 
 | Date | Topic | Publisher |
 | ------------- | :------------- | :------------- |
-| 04/11/2024 | **Raspberry Robin** ||
+| 04/11/2024 | **Raspberry Robin Malware** ||
 | 04/11/2024 | [Raspberry Robin Malware Evolves with Sophisticated Evasion Tactics](https://www.secureworld.io/industry-news/raspberry-robin-malware) | [Secure World Magazine](https://www.secureworld.io) |
 | 04/10/2024 | [Raspberry Robin Observed Spreading via Windows Script Files](https://www.scmagazine.com/news/raspberry-robin-observed-spreading-via-windows-script-files) | [SC Magazine](https://www.scmagazine.com/) | 
 | 03/19/2024 | **2023 Threat Intelligence Report** ||
