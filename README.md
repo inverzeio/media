@@ -2,6 +2,10 @@
 
 | Date | Topic | Publisher |
 | ------------- | :------------- | :------------- |
+| 10/30/2024 | **Midnight Blizzard Spear Phishing Intelligence Collection Campaign** ||
+| 10/31/2024 | [Russian Actor Midnight Blizzard Conducts Massive Spear-Phishing Campaign Using RDP Files](https://informationsecuritybuzz.com/russian-actor-midnight-blizzard-conducts-massive-spear-phishing-campaign-using-rdp-files/) | [InformationSecurityBuzz](https://informationsecuritybuzz.com) |
+| 10/31/2024 | [Microsoft Threat Intelligence Update: How Midnight Blizzard Carried Out Spear-Phishing Using RDP Files](https://cybertechnologyinsights.com/aiops/microsoft-threat-intelligence-update-how-midnight-blizzard-carried-out-spear-phishing-using-rdp-files/) | [Cyber Technology Insights](https://cybertechnologyinsights.com) |
+| 10/30/2024 | [Midnight Blizzard Uses RDP to Target 100 Organizations in US, Europe](https://www.scworld.com/news/midnight-blizzard-uses-rdp-to-target-100-organizations-in-us-and-europe) | [Cyber Technology Insights](https://cybertechnologyinsights.com) | [SC World](https://www.scworld.com) |
 | 10/24/2024 | **macOS "HM Surf" vulnerability (CVE-2024-44133)** ||
 | 10/24/2024 | [New MacOS vulnerability allows unauthorized data access](https://www.securitymagazine.com/articles/101153-new-macos-vulnerability-allows-unauthorized-data-access) | [Security Magazine](https://www.securitymagazine.com) |
 | 10/02/2024 | **INC Ransomware attacks against healthcare** ||
@@ -14,6 +18,7 @@
 | 09/11/2024 | **Lazarus Targets Developers** ||
 | 09/11/2024 | [Lazarus Targets Developers with Sophisticated Coding Test Scam](https://www.secureworld.io/industry-news/lazarus-developers-coding-test-scam) | [Secure World Magazine](https://www.secureworld.io) |
 | 09/10/2024 | **1H 2024 Threat Intelligence Report** ||
+| 10/31/2024 | [A Halloween Haunting: Unveiling Cybersecurity’s Scary Stats](https://informationsecuritybuzz.com/unveiling-cybersecuritys-scary-stats/) | [Information Security Buzz](https://informationsecuritybuzz.com) |
 | 09/19/2024 | [China’s cyberattacks on manufacturing are part of its long-game strategy for industrial dominance](https://www.scmagazine.com/perspective/chinas-cyberattacks-on-manufacturing-are-part-of-its-long-game-strategy-for-industrial-dominance) | [SC Magazine](https://www.scmagazine.com/) | 
 | 09/16/2024 | [Cyberattacks against manufacturing sector increased 105% in H1 of 2024](https://www.securitymagazine.com/articles/101043-cyberattacks-against-manufacturing-sector-increased-105-in-h1-of-2024) | [Securitymagazine](https://www.securitymagazine.com) |
 | 09/10/2024 | [Manufacturing, Industrial Sectors Are Under Siege](https://securityboulevard.com/2024/09/manufacturing-industrial-sectors-are-under-siege/) | [Security Boulevard](securityboulevard.com) | 
