@@ -2,7 +2,7 @@
 
 | Date | Topic | Publisher |
 | ------------- | :------------- | :------------- |
-| 12/27/2024 | **Cybersecurity and Threat Intelligence Investments** |
+| 01/15/2025 | **Cybersecurity and Threat Intelligence Investments** |
 | 01/15/2025 | [Stop wasting money on ineffective threat intelligence: 5 mistakes to avoid](https://www.csoonline.com/article/3624136/stop-wasting-money-on-ineffective-threat-intelligence-5-mistakes-to-avoid.html) | [CSO Online](https://www.csoonline.com) |
 | 12/27/2024 | **2025 Cybersecurity predictions** |
 | 12/27/2024 | [2025 Cybersecurity Predictions: Not Getting Easier; But There is Hope](https://www.secureworld.io/industry-news/cybersecurity-predictions-for-2025) | [SecureWorld](https://www.secureworld.io/) |
