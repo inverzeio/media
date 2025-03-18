@@ -10,6 +10,7 @@
 | 02/26/2025 | [Inside BlackBasta: What Leaked Conversations Reveal About Their Ransomware Operations](https://www.ontinue.com/resource/inside-black-basta-leaked-coversations/) | [Ontinue Resources](https://www.ontinue.com/resources/) |
 | 02/26/2025 | [Inside BlackBasta: What Leaked Conversations Reveal About Their Ransomware Operations](https://xfe-development.xforce.ibm.com/osint/guid:5193c94f801d44f7bee7fff93287a359) | [IBM X-Force](https://xfe-development.xforce.ibm.com)
 | 02/25/2025 | **Salt Typhoon Attacks** |
+| 03/18/2025 | [Salt Typhoon Exploits Flaw to Breach Major U.S. Telecoms](https://securitybuzz.com/cybersecurity-news/salt-typhoon-exploits-seven-year-old-flaw-to-breach-major-u-s-telecoms/) | [SecurityBuzz](https://securitybuzz.com) |
 | 02/25/2025 | [Vulnerability Exploited in Salt Typhoon Attack](https://www.securitymagazine.com/articles/101419-7-year-old-vulnerability-exploited-in-salt-typhoon-attack) | [Security Magazine](https://www.securitymagazine.com) |
 | 01/30/2025 | **Voyager PHP Admin Panel vulnerability** |
 | 01/30/2025 | [1-click RCE possible by combining vulnerabilities in Voyager PHP](https://www.scworld.com/news/1-click-rce-possible-by-combining-vulnerabilities-in-voyager-php) | [Security Magazine](https://www.securitymagazine.com) |
